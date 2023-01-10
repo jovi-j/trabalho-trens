@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/tremImages">
+        <file>_trem 1.png</file>
+        <file>_trem 2.png</file>
+        <file>_trem 3.png</file>
+        <file>_trem 4.png</file>
+        <file>_trem 5.png</file>
+    </qresource>
+</RCC>
